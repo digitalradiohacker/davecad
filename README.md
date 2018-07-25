@@ -10,3 +10,5 @@ The vector graphics source files are also included. Sorry I used such weird soft
 
 * [2D Printing Block Design, PDF](https://github.com/scanlime/davecad/blob/master/DaveCAD%20Print%20Block%20-%20merged.pdf)
 * [3D Printing Jig, STL](https://github.com/scanlime/davecad/blob/master/davecad-alignment-jig.stl)
+
+[![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
